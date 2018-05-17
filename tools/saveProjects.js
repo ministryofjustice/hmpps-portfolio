@@ -6,7 +6,6 @@ const inputPath = './csv/studio_portfolio.csv';
 const headers = ['id','name','description','phase','theme','product_man','product_man_slack','service_man','service_man_slack','team_slack','location'];
 const parser = parse({columns: headers, from: 2});
 
-
 const loadCsv = (inputPath) => {
   try {
     return fs.readFileSync(inputPath, 'utf8');
