@@ -1,25 +1,11 @@
----
 id: ndelius
-name: "nDelius"
-description: >
-  Probation live services.
-service_man: Dawn Ramshaw
-product_man: Andrew Logan
-location: Sheffield
-theme: Legacy
-facing: internal
+name: nDelius
+description: Probation live services
 phase: live
-phase-history:
-  alpha:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-  discovery:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-product_man_slack:
-service_man_slack: https://mojdt.slack.com/messages/@U58LBFDKN
-team_slack: https://mojdt.slack.com/messages/C7LRBCAAH
+theme: Legacy
+product_man: Andrew Logan
+product_man_slack: ''
+service_man: Dawn Ramshaw
+service_man_slack: 'https://mojdt.slack.com/messages/@U58LBFDKN'
+team_slack: 'https://mojdt.slack.com/messages/C7LRBCAAH'
+location: Sheffield

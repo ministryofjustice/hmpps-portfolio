@@ -1,25 +1,13 @@
----
 id: call-risk
-name: "Cell sharing risk assessment"
-description: >
-  Uses analytics to help prison officers decide whether to place prisoners in single or shared cells.
-service_man: John Fitzpatrick
-product_man: John Saunders
-location: Sheffield
+name: Cell sharing risk assessment
+description: >-
+  Uses analytics to help prison officers decide whether to place prisoners in
+  single or shared cells.
+phase: beta
 theme: Safety
-facing: internal
-phase: backlog
-phase-history:
-  alpha:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-  discovery:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-product_man_slack: https://mojdt.slack.com/messages/@U68A59AAV
-service_man_slack: https://mojdt.slack.com/messages/@U59401GTF
-team_slack: https://mojdt.slack.com/messages/C689AGUNL
+product_man: John Saunders
+product_man_slack: 'https://mojdt.slack.com/messages/@U68A59AAV'
+service_man: John Fitzpatrick
+service_man_slack: 'https://mojdt.slack.com/messages/@U59401GTF'
+team_slack: 'https://mojdt.slack.com/messages/C689AGUNL'
+location: Sheffield

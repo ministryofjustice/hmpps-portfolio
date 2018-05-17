@@ -1,19 +1,11 @@
----
-id: url-slug
-name: "Name Of Project"
-description: "Description of project"
+id: defaults
+name: name of project
+description: description of project
+phase: Beta
+theme: Rehabilitation
+product_man: Product Manager
+product_man_slack: 'https://mojdt.slack.com/'
+service_man: Service Manager
+service_man_slack: 'https://mojdt.slack.com/'
+team_slack: 'https://mojdt.slack.com/'
 location: Sheffield
-theme: Efficiency
-facing: user
-phase: backlog
-phase-history:
-  alpha:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-  discovery:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""

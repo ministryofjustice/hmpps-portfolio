@@ -1,25 +1,13 @@
----
 id: o-book
-name: "Observation book"
-description: >
-  description.
-service_man: Julian dos Remedios
-product_man: John Saunders
-location: Sheffield
+name: Observation book
+description: >-
+  Creating a digital observation book to improve the flow of information around
+  an establishment. 
+phase: Backlog
 theme: Efficiency
-facing: internal
-phase: backlog
-phase-history:
-  alpha:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-  discovery:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-product_man_slack: https://mojdt.slack.com/messages/@U68A59AAV
-service_man_slack: https://mojdt.slack.com/messages/@U5DU0PBEV
-team_slack:
+product_man: John Saunders
+product_man_slack: 'https://mojdt.slack.com/messages/@U68A59AAV'
+service_man: Julian dos Remedios
+service_man_slack: 'https://mojdt.slack.com/messages/@U5DU0PBEV'
+team_slack: ''
+location: Sheffield

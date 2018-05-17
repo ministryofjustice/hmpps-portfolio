@@ -1,25 +1,11 @@
----
 id: classic-parole
-name: "Classic Parole"
-description: >
-  New cloud based parole service for existing model.
-service_man: Dawn Ramshaw
-product_man: Nick Gallon
-location: Sheffield
+name: Classic Parole
+description: New cloud based parole service for existing model
+phase: Backlog
 theme: Rehabilitation
-facing: internal
-phase: backlog
-phase-history:
-  alpha:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-  discovery:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-product_man_slack: https://mojdt.slack.com/messages/@U5A0WH739
-service_man_slack: https://mojdt.slack.com/messages/@U58LBFDKN
-team_slack: https://mojdt.slack.com/messages/C69NJB3J9
+product_man: Nick Gallon
+product_man_slack: 'https://mojdt.slack.com/messages/@U5A0WH739'
+service_man: Dawn Ramshaw
+service_man_slack: 'https://mojdt.slack.com/messages/@U58LBFDKN'
+team_slack: 'https://mojdt.slack.com/messages/C69NJB3J9'
+location: Sheffield

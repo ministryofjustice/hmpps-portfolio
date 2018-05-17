@@ -1,25 +1,14 @@
----
 id: whereabouts
-name: "Whereabouts"
-description: >
-  description.
-service_man: Julian dos Remedios
-product_man: John Saunders
-location: Sheffield
+name: Whereabouts
+description: >-
+  Creating new Activity lists, Allocation process and feedback tools for all
+  prison staff removing the need for hours of manipulation in Excel and
+  inacuracies 
+phase: Alpha
 theme: Efficiency
-facing: internal
-phase: alpha
-phase-history:
-  alpha:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-  discovery:
-    - date: ""
-      label: ""
-    - date: ""
-      label: ""
-product_man_slack: https://mojdt.slack.com/messages/@U68A59AAV
-service_man_slack: https://mojdt.slack.com/messages/@U5DU0PBEV
-team_slack: https://mojdt.slack.com/messages/C7DFVBU9Z
+product_man: John Saunders
+product_man_slack: 'https://mojdt.slack.com/messages/@U68A59AAV'
+service_man: Julian dos Remedios
+service_man_slack: 'https://mojdt.slack.com/messages/@U5DU0PBEV'
+team_slack: 'https://mojdt.slack.com/messages/C7DFVBU9Z'
+location: Sheffield
