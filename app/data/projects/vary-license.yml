@@ -1,0 +1,13 @@
+id: vary-license
+name: Create and vary a license
+description: >-
+  Try and join up some disparate systems to make it simpler and safer to release
+  people on license.
+phase: alpha
+theme: Efficiency
+product_man: Raj Kissy
+product_man_slack: 'https://mojdt.slack.com/messages/@U58F57RGQ'
+service_man: Julian Dos Remedios
+service_man_slack: 'https://mojdt.slack.com/messages/@U5DU0PBEV'
+team_slack: ''
+location: Sheffield

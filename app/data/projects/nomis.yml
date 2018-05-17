@@ -1,0 +1,11 @@
+id: nomis
+name: NOMIS
+description: Managing prisoners and resources
+phase: live
+theme: Legacy
+product_man: Raj Panjwani
+product_man_slack: 'https://mojdt.slack.com/messages/@U579ZCGN6'
+service_man: Julian Dos Remedios
+service_man_slack: 'https://mojdt.slack.com/messages/@U5DU0PBEV'
+team_slack: ''
+location: Sheffield

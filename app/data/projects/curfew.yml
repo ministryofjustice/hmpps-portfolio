@@ -1,0 +1,13 @@
+id: curfew
+name: Home detention curfew
+description: >-
+  HDC Digital Service providing core Home Detention Curfew (HDC) journey from
+  Prison to HDC licence creation and release on curfew
+phase: Alpha
+theme: Rehabilitation
+product_man: Jim Musgrave
+product_man_slack: 'https://mojdt.slack.com/messages/@U831KCHUJ'
+service_man: Dawn Ramshaw
+service_man_slack: 'https://mojdt.slack.com/messages/@U58LBFDKN'
+team_slack: ''
+location: Sheffield

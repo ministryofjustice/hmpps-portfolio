@@ -136,7 +136,6 @@ NODE_ENV= yarn.cmd install --frozen-lockfile
 exitWithMessageOnError "yarn install failed"
 
 echo "Building static assets via 'yarn run build'"
-yarn.cmd run build:projects
 yarn.cmd run build
 exitWithMessageOnError "yarn build failed"
 
