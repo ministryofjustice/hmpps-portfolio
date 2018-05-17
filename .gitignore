@@ -8,3 +8,4 @@ docs
 npm-debug.log
 .idea
 .idea/**
+app/data/projects/**
