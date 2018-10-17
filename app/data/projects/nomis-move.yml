@@ -1,7 +1,7 @@
 id: nomis-move
 name: NOMIS on the move
 description: Providing Key Workers mobile access to information.
-phase: alpha
+phase: beta
 theme: Efficiency
 product_man: Gary Sherrington
 product_man_slack: 'https://mojdt.slack.com/messages/@U67NFAWEL'

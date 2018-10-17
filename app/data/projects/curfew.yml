@@ -3,7 +3,7 @@ name: Home detention curfew
 description: >-
   HDC Digital Service providing core Home Detention Curfew (HDC) journey from
   Prison to HDC licence creation and release on curfew
-phase: Alpha
+phase: alpha
 theme: Rehabilitation
 product_man: Jim Musgrave
 product_man_slack: 'https://mojdt.slack.com/messages/@U831KCHUJ'

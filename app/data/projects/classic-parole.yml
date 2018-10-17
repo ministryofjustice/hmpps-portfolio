@@ -1,7 +1,7 @@
 id: classic-parole
 name: Classic Parole
 description: New cloud based parole service for existing model
-phase: Backlog
+phase: alpha
 theme: Rehabilitation
 product_man: Nick Gallon
 product_man_slack: 'https://mojdt.slack.com/messages/@U5A0WH739'

@@ -1,7 +1,7 @@
 id: case-all
 name: Case allocation
 description: Simplified Case allocation and risk tool
-phase: Discovery
+phase: discovery
 theme: Rehabilitation
 product_man: Nick Gallon
 product_man_slack: 'https://mojdt.slack.com/messages/@U5A0WH739'

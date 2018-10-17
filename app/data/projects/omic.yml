@@ -1,7 +1,7 @@
 id: omic
 name: OMIC Parole
 description: New cloud based parole service for OMIC model
-phase: Discovery
+phase: backlog
 theme: Rehabilitation
 product_man: Nick Gallon
 product_man_slack: 'https://mojdt.slack.com/messages/@U5A0WH739'

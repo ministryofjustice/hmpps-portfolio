@@ -1,7 +1,7 @@
 id: off-sum
 name: Offender summary
 description: Refined Offender Summary with contextual Info
-phase: Discovery
+phase: alpha
 theme: Rehabilitation
 product_man: Nick Gallon
 product_man_slack: 'https://mojdt.slack.com/messages/@U5A0WH739'

@@ -3,7 +3,7 @@ name: Cell sharing risk assessment
 description: >-
   Uses analytics to help prison officers decide whether to place prisoners in
   single or shared cells.
-phase: beta
+phase: backlog
 theme: Safety
 product_man: John Saunders
 product_man_slack: 'https://mojdt.slack.com/messages/@U68A59AAV'

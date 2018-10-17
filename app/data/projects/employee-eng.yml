@@ -1,7 +1,7 @@
 id: employee-eng
 name: Employee engagement
 description: Improve engagement with prison officers by providing better tools
-phase: discovery
+phase: alpha
 theme: Efficiency
 product_man: Lauren Darby
 product_man_slack: 'https://mojdt.slack.com/messages/@U95UFKJEN'
